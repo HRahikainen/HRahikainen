@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello there 👋
+
+I'm Harri, your friendly neighbourhood embedded dev from Finland.
+
+🌱 I’m currently learning Rust🦀 and functional programming. I'm also interested in testing and clean architecture.
+
+Let me know if you need any help with your embedded projects! :wink:
+
 
 <!--
 **HRahikainen/HRahikainen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
